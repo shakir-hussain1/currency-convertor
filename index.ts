@@ -3,7 +3,7 @@
 import inquirer from "inquirer"
 import chalk from "chalk"
 
-console.log(chalk.bgYellow.underline.black("Welcome to Currency Converter App"))
+console.log(chalk.bgYellow.underline.black("WELCOME TO CURRENCY CONVERTER APP"))
 const currency:any =
 {
     USD: 1, //base currency
